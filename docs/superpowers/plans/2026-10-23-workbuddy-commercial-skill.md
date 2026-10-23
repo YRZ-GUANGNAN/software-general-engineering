@@ -40,5 +40,5 @@
 - [x] 运行 `quick_validate.py` 与 YAML/JSON 解析检查。
 - [x] 对现有 `evals/evals.json` 做三场景回归审查并记录结果到 `work/software-general-engineering-evolve/round-1/`。
 - [x] 生成根目录含 `SKILL.md` 的 ZIP，检查包内文件清单和敏感文件排除情况。
-- [ ] 仅暂存本次文件，提交中文 commit，并普通推送到 `origin/main`。
-- [ ] 推送后核对远端 SHA；WorkBuddy 最终发布按钮前保留给用户确认，避免把“上传包已准备”误报成“已上架”。
+- [x] 仅暂存本次文件，提交中文 commit，并普通推送到 `origin/main`。
+- [x] 推送后核对远端 SHA；WorkBuddy 最终发布按钮前保留给用户确认，避免把“上传包已准备”误报成“已上架”。
